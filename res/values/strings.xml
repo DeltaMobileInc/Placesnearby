@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Places Nearby</string>
+    <string name="image" translatable="false">Thumbnail</string>
+    <string name="drawer_open" translatable="false">Open Drawer</string>
+    <string name="drawer_close" translatable="false">Close Drawer</string>
+    <!-- Setting title when user press back button -->
+    <string name="Welcome_title" translatable="false">Welcome</string>
+    <string name="College_title" translatable="false">Colleges</string>
+    <string name="Counselling_title" translatable="false">Counselling</string>
+    <string name="Locations_title" translatable="false">Locations</string>
+    <string name="About_title" translatable="false">About</string>
+    <string name="Contact_title" translatable="false">Contact</string>
+    <!-- Setting strings -->
+    <string name="menu_settings" translatable="false">Settings</string>
+
+    <!-- Action titles -->
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_search" translatable="false">Search</string>
+
+</resources>
